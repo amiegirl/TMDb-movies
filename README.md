@@ -21,6 +21,6 @@ This project aims to investigate this dataset and answer some specific questions
 14.	What movies generated big revenues?
 15.	Can we provide a list of directors that generates big revenue?
 16.	Can we provide a list of production company that generates big revenue?
-17.	
+	
 ## Data collection
 The dataset was cleaned from original data on <Kaggle><https://www.kaggle.com/tmdb/tmdb-movie-metadata>
